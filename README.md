@@ -1,13 +1,16 @@
-# NodeBB HearThis Plugin
+# NodeBB Hearthis.at Plugin
 
-This NodeBB plugin allows users to embed HearThis widgets inline in their posts.
+This NodeBB plugin allows users to embed Hearthis.at tracks inline in their posts.
 
 ## Installation
 
     npm install nodebb-plugin-hearthis
 
+
 ## Usage
 
-    Paste the embed URL (different to the website URL(thanks HearThis)) into a post.
-    ???
-    Profit!
+    Paste the Shortlink (Twitter) into a post, it will be embedded automagically.
+
+## Changes
+
+0.0.1 - This plugin is only supported for 0.6.x of NodeBB, if anyone *really* needs this for 0.5.x, I will backport it.

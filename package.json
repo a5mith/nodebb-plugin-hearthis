@@ -1,6 +1,9 @@
 {
   "name": "nodebb-plugin-hearthis",
   "version": "0.0.1",
+    "nbbpm": {
+        "compatibility": "^0.6.0"
+    },
   "description": "NodeBB HearThis Plugin",
   "main": "library.js",
   "scripts": {
@@ -14,12 +17,12 @@
     "nodebb",
     "plugin",
     "hearthis",
-    "embed",
-    "sets"
+    "custom",
+    "embed"
   ],
   "author": {
     "name": "a5mith",
-    "email": "aaronsmith91@sky.com"
+    "email": "35hzcommunity@gmail.com"
   },
   "license": "BSD-2-Clause",
   "bugs": {
