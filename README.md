@@ -13,4 +13,4 @@ This NodeBB plugin allows users to embed Hearthis.at tracks inline in their post
 
 ## Changes
 
-0.0.1 - This plugin is only supported for 0.6.x of NodeBB, if anyone *really* needs this for 0.5.x, I will backport it.
+0.1.0 - This plugin is only supported for 0.6.x of NodeBB, if anyone *really* needs this for 0.5.x, I will backport it.
